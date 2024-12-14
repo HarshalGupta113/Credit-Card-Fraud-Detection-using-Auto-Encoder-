@@ -28,8 +28,8 @@ The project is implemented in Python and requires the following libraries:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/anomaly-detection-neural-network.git
-   cd anomaly-detection-neural-network
+   git clone https://github.com/yourusername/Credit-Card-Fraud-Detection-using-AutoEncoder.git
+   cd Credit-Card-Fraud-Detection-using-AutoEncoder
    ```
 
 2. Run the Jupyter Notebook:
